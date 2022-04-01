@@ -651,7 +651,6 @@ graph_offset = Vector2( 0, -47.6193 )
 [sub_resource type="AnimationNodeStateMachinePlayback" id=17]
 
 [sub_resource type="CapsuleShape2D" id=36]
-radius = 10.0
 height = 12.0
 
 [node name="Player" type="KinematicBody2D"]
